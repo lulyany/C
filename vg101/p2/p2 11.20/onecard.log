@@ -1,0 +1,75 @@
+*************************
+*                       *
+*   Welcome to OneCard  *
+*                       *
+*************************
+-------Initial Setup-----
+Number of Decks:2
+Number of Players(4 by default):4
+Number of Rounds:2
+Number of Initial Cards:5
+Dealing cards to determine the playing order...
+
+
+
+_____ _____ _____ _____ 
+|2  | |10 | |10 | |Q  | 
+| S | | H | | C | | C | 
+|__2| |_10| |_10| |__Q| 
+  1     2     3     4   
+(4 players default, see ./onecard -h for more)The game will starts with player 1
+
+Player 1
+
+
+_____ _____ _____ _____ _____ 
+|6  | |2  | |9  | |K  | |7  | 
+| S | | H | | H | | D | | C | 
+|__6| |__2| |__9| |__K| |__7| 
+  1     2     3     4     5   
+
+
+
+
+
+Player 2
+
+
+_____ _____ _____ _____ _____ 
+|5  | |10 | |3  | |2  | |2  | 
+| S | | S | | H | | D | | C | 
+|__5| |_10| |__3| |__2| |__2| 
+  1     2     3     4     5   
+
+
+
+
+
+Player 3
+
+
+_____ _____ _____ _____ _____ 
+|4  | |6  | |8  | |10 | |Q  | 
+| H | | D | | D | | D | | D | 
+|__4| |__6| |__8| |_10| |__Q| 
+  1     2     3     4     5   
+
+
+
+
+
+Player 4
+
+
+_____ _____ _____ _____ _____ 
+|4  | |A  | |8  | |9  | |10 | 
+| S | | S | | C | | C | | C | 
+|__4| |__A| |__8| |__9| |_10| 
+  1     2     3     4     5   
+
+
+
+
+
+Player 1 played (C 7)
+Player 2 played (C 2)
